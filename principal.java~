@@ -27,9 +27,6 @@ public class principal {
 			if (letra >= 'a' && letra <= 'z'){
 				abc[letra - 'a' ]++;
 			}
-                        if (letra >= '0' && letra <= '9'){
-				System.out.println("la letra "+ (char) (i+'a')+ "es un numero ");
-			}
 		}
 	}
 	
